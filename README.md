@@ -3,8 +3,7 @@
 ### Overview Dashboard
 ![Overview](screenshots/overview.png)
 
-### Insights Page
-![Insights](screenshots/insights.png)
+![Insights](screenshots/Insights.png)
 
 # Sales Dashboard Project
 
