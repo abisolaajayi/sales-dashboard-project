@@ -29,9 +29,6 @@ This project is an interactive sales analysis dashboard built using Power BI. It
 - Top 10 cities analysis
 - Interactive slicers (Region, Category, Segment, Ship Mode)
 
-## Dashboard Preview
-(Add your screenshots here)
-
 ## Project Files
 - data/ → Raw dataset
 - powerbi/ → Power BI dashboard file
