@@ -1,10 +1,10 @@
-## Dashboard Preview
+## 📊 Dashboard Preview
 
 ### Overview Dashboard
-![Overview](overview.png)
+![Overview](screenshots/overview.png)
 
 ### Insights Page
-![Insights](insights.png)
+![Insights](screenshots/insights.png)
 
 # sales-dashboard-project
 # Sales Dashboard Project
