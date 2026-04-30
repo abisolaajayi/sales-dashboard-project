@@ -6,7 +6,6 @@
 ### Insights Page
 ![Insights](screenshots/insights.png)
 
-# sales-dashboard-project
 # Sales Dashboard Project
 
 ## Overview
