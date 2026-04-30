@@ -1,10 +1,18 @@
-# sales-dashboard-project
-# 📊 Sales Dashboard Project
+## Dashboard Preview
 
-## 📌 Overview
+### Overview Dashboard
+![Overview](overview.png)
+
+### Insights Page
+![Insights](insights.png)
+
+# sales-dashboard-project
+# Sales Dashboard Project
+
+## Overview
 This project is an interactive sales analysis dashboard built using Power BI. It analyzes sales performance across regions, categories, customer segments, and shipping modes.
 
-## 🛠 Tools Used
+## Tools Used
 - Excel (Data Cleaning & Preparation)
 - Power BI (Data Visualization & Dashboarding)
 - GitHub (Version Control & Portfolio)
